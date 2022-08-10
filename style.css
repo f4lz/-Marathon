@@ -528,6 +528,7 @@ a:focus {
 }
 
 .form__input {
+    padding: 0 2px;
     color: white;
     background: #8D7370;
     border-bottom: 1px solid #FFFFFF;
