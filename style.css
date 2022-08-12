@@ -455,15 +455,15 @@ a:focus {
     
 }
 
-.reviews__info-button-left {
+.reviews__info-button--left {
     position: relative;
 }
 
-.reviews__info-button-right {
+.reviews__info-button--right {
     position: relative;
 }
 
-.reviews__info-button-left::after {
+.reviews__info-button--left::after {
     display: block;
     position: absolute;
     content: "";
@@ -475,7 +475,7 @@ a:focus {
 
 }
 
-.reviews__info-button-right::after {
+.reviews__info-button--right::after {
     display: block;
     position: absolute;
     content: "";
