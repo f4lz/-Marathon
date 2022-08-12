@@ -325,7 +325,6 @@ a:focus {
 
 .products__inner-description {
     color: white;
-
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -487,7 +486,7 @@ a:focus {
     left: 30%;
     width: 33px;
     height: 16px;
-    background: url('/img/arrowleft.svg');
+    background: url('./img/arrowleft.svg');
 
 }
 
@@ -499,7 +498,7 @@ a:focus {
     left: 30%;
     width: 33px;
     height: 16px;
-    background: url('/img/arrowright.svg');
+    background: url('./img/arrowright.svg');
 
 }
 
